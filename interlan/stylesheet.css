@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+body{
+				font-family: Arial, tahoma, verdana, arial;
+			}
+			.mainContainer{
+				background: color;
+				font-size: 12px;
+			}
+
+			
+
+			h1, h2, h3, h4, h5, h6{
+				border-bottom: 1px solid #b0b0b0;
+			}
+			.contact{
+				text-style: uppercase;
+			}
+			#subContainer{
+				width: 700px;
+				height: 600px;
+				border: black solid 1px;
+				margin-left: auto;
+				margin-right:auto;
+				
+			}
+			#subContainer1{
+				width: 650px;
+				height: 250px;
+				border: black solid 1px;
+				margin-left: auto;
+				margin-right:auto;
+				
+			}
+			
+			.dom{
+				background-color: #FF00FF; 
+			}
+			.okdom{
+				background-color: #A0FFA0;
+			}
+			.errorDom{
+				background-color: #FF0000;
+			}
+			.warningDom{
+				background-color: #FFA500;
+			}
+			.dom, .okdom, .warningDom, .errorDom{
+				/*border: 1px solid black;*/
+				padding: 2px;
+				width: auto;
+				margin-left: 3px;
+				margin: 2px;
+				overflow: hidden;
+				float: left;
+				height: auto;
+			}
+
+			a{
+				color: #0000FF;
+				text-decoration: none;
+			}
+			a:hover{
+				color: #0000FF;
+				text-decoration: underline;
+			}
