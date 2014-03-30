@@ -1,7 +1,7 @@
 <?php 
 #Author: Johan Fohlin
 #Email: Mr.Fohlin@gmail.com
-# 
+#Github Link: https://github.com/mrfohlin/interlan
 ?>
 
 

@@ -3,6 +3,11 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
+<?php 
+#Author: Johan Fohlin
+#Email: Mr.Fohlin@gmail.com
+#Github Link: https://github.com/mrfohlin/interlan
+?>
 
 
 <?php require 'metoder.php';?>
